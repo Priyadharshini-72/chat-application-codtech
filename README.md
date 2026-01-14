@@ -48,6 +48,7 @@ chat-application/
 └── package.json # Backend dependencies
 
 ## 📸 Output
+![Image](https://github.com/user-attachments/assets/0db2995b-adf7-4072-84f2-3f58cfe3327a)
 ![Image](https://github.com/user-attachments/assets/3baa1f81-4622-4eb0-8331-6f798aa5cc86)
 ![Image](https://github.com/user-attachments/assets/e62f8125-32d4-4ddb-98ae-029fffc4b597)
 
