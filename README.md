@@ -48,11 +48,6 @@ chat-application/
 └── package.json # Backend dependencies
 
 ## 📸 Output
-
-A real-time chat interface where users can:
-
-- ✉️ Send messages  
-- 👀 View messages instantly  
-- 🔄 Chat without page reload  
-- 💡 Experience basic live chat functionality  
+![Image](https://github.com/user-attachments/assets/3baa1f81-4622-4eb0-8331-6f798aa5cc86)
+![Image](https://github.com/user-attachments/assets/e62f8125-32d4-4ddb-98ae-029fffc4b597)
 
